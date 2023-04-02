@@ -133,4 +133,3 @@ try {
 printRecipe()
 
 // Bonus 2 - Promise all
-// ...
